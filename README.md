@@ -1,5 +1,6 @@
-# fullstack-certification-showcase
-Full-Stack Engineering &amp; Security Specialization | freeCodeCamp Showcase
+# Full-Stack Engineering & Security Architecture (freeCodeCamp Portfolio)
+
+A rigorous collection of 17+ professional projects across Full-Stack Development, Information Security, and Quality Assurance. Demonstrating industry-standard proficiency in TDD, RESTful API Design, and Automated Workflows.
 
 
 
